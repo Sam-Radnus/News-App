@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Prince Harry working towards being allowed to fund own police security in the United Kingdom",
+            "description": "Prince Harry has applied for a judicial review of a Home Office decision that kept him from personally paying for police protection while he and his family visit the UK.",
+            "url": "https://www.foxnews.com/entertainment/prince-harry-judicial-review-pay-security-united-kingdom",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Meghan_Markle_Prince-Harry.jpg",
+            "publishedAt": "2022-01-16T01:07:20.7501539Z",
+            "content": "Prince Harry has applied for a judicial review of a Home Office decision that kept him from personally paying for police protection while he and his family were in the United Kingdom.\r\nPrince Harry o… [+2993 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince Harry in legal fight to pay for UK police protection",
+            "description": "The Duke of Sussex is challenging a Home Office decision not to allow him to pay for security.",
+            "url": "http://www.bbc.co.uk/news/uk-60012238",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E99B/production/_122730895_gettyimages-1342104290.jpg",
+            "publishedAt": "2022-01-16T00:52:20.2882373Z",
+            "content": "By Joseph LeeBBC News\r\nImage source, Getty Images\r\nPrince Harry is seeking a judicial review against the refusal of the Home Office to allow him to personally pay for police protection when in the UK… [+2492 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "EXCLUSIVE Ukraine suspects group linked to Belarus intelligence over cyberattack",
+            "description": "Kyiv believes a hacker group linked to Belarusian intelligence carried out a <a href=\"https://www.reuters.com/world/europe/expect-worst-ukraine-hit-by-cyberattack-russia-moves-more-troops-2022-01-14\" target=\"_blank\">cyberattack</a> that hit Ukrainian governme…",
+            "url": "https://www.reuters.com/world/europe/exclusive-ukraine-suspects-group-linked-belarus-intelligence-over-cyberattack-2022-01-15/",
+            "urlToImage": "https://www.reuters.com/resizer/jkokslOxKG2NH9zg1EKOhRWUqn4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UU5RZIJKTRI5DLXHK42LNSVOMA.jpg",
+            "publishedAt": "2022-01-16T00:31:00+00:00",
+            "content": "KYIV, Jan 15 (Reuters) - Kyiv believes a hacker group linked to Belarusian intelligence carried out a cyberattack that hit Ukrainian government websites this week and used malware similar to that use… [+3661 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Laura Kelly",
+            "title": "Fears of Russian invasion of Ukraine rises despite US push for diplomacy | TheHill",
+            "description": "U.S. officials are raising alarm that Russian threats of war against U...",
+            "url": "http://thehill.com/policy/international/russia/589859-fears-of-russian-invasion-of-ukraine-rises-despite-us-push-for",
+            "urlToImage": "https://thehill.com/sites/default/files/article_images/ukrainianmilitaryvehicles_12122021_ap_andriydubchak_russia-threats.jpg",
+            "publishedAt": "2022-01-15T23:30:08Z",
+            "content": "U.S. officials are raising alarm that Russian threats of war against Ukraine are spiking dangerously despite the conclusion of a week of diplomatic meetings aimed at avoiding the outbreak of open con… [+8979 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Thibaut Briet « super content » pour ses débuts après la victoire des Bleus devant l'Ukraine",
+            "description": "Pour sa deuxième sélection, Thibaut Briet était amené à suppléer Nikola Karabatic, laissé au repos. Le jeune arrière de 22 ans a réussi sa mission.",
+            "url": "https://www.lequipe.fr/Handball/Actualites/Thibaut-briet-super-content-pour-ses-debuts-apres-la-victoire-des-bleus-devant-l-ukraine/1310857",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/thibaut-briet-a-dispute-son-premier-match-avec-les-bleus-n-luttiau-l-equipe/1500000001593083/0:0,1998:1332-640-427-75/b2139.jpg",
+            "publishedAt": "2022-01-15T23:00:00+00:00",
+            "content": "Guillaume Gille (sélectionneur des Bleus, après la victoire face à l'Ukraine) : « Il fallait être sérieux face à un adversaire qui n'avait pas fait un très bon match il y a deux jours (défaite contre… [+2455 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Laura Elston",
+            "title": "Prince Harry files claim against Home Office decision not to let him pay for police protection in UK",
+            "description": "The duke wants to fund the security himself rather than let taxpayers pay, his lawyer said",
+            "url": "http://www.independent.co.uk/news/uk/home-news/prince-harry-home-office-police-protection-b1993962.html",
+            "urlToImage": "https://static.independent.co.uk/2021/12/23/14/GettyImages-1352553230.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-15T22:17:31Z",
+            "content": "The Duke of Sussex has applied for a judicial review of a Home Office decision not to allow him to personally pay for police protection for himself and his family when they are in the UK.\r\nHarry want… [+4072 chars]"
+        },
+        {
+            "source": {
+                "id": "rtl-nieuws",
+                "name": "RTL Nieuws"
+            },
+            "author": "RTL Nieuws",
+            "title": "Al vroeg druk bij de kapper: 'Hele maand volgeboekt'",
+            "description": "Versoepelingen en dus mogen de kappers weer open. In Dieren ging kapper Leander om 7.00 uur al aan de slag. Hij weet zeker dat zijn agenda de komende maand bomvol afspraken staat.",
+            "url": "https://www.rtlnieuws.nl/nieuws/video/video/5281264/al-vroeg-druk-bij-de-kapper-hele-maand-volgeboekt",
+            "urlToImage": "https://screenshots.rtl.nl/system/thumb/sz=720x404/uuid=beac2314-5e3c-48eb-8a4a-0fbaad507ba1",
+            "publishedAt": "2022-01-15T21:22:25.5441109Z",
+            "content": "Versoepelingen en dus mogen de kappers weer open. In Dieren ging kapper Leander om 7.00 uur al aan de slag. Hij weet zeker dat zijn agenda de komende maand bomvol afspraken staat. \r\n15 januari 2022 1… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Handelsblatt",
+            "title": "Ukraine vermutet Hacker in Belarus und Russland",
+            "description": "Hackerangriff auf staatliche Internetseiten in der Ukraine: Verdächtige im Umfeld belarussischer Geheimdienste vermutet.",
+            "url": "https://www.handelsblatt.com/politik/international/cyberangriff-ukraine-vermutet-hacker-in-belarus-und-russland/27979032.html",
+            "urlToImage": "https://www.handelsblatt.com/images/hacker-in-der-ukraine/27979036/3-format2003.jpg",
+            "publishedAt": "2022-01-15T20:58:00+00:00",
+            "content": "Kiew Ukrainische Sicherheitskräfte vermuten die Urheber des Hackerangriffs auf mehrere staatliche Internetseiten im Umfeld belarussischer Geheimdienste. Die von den Angreifern eingesetzte Schadsoftwa… [+2182 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Lamiat Sabin",
+            "title": "Daily Covid cases at lowest level for a month as Omicron infections ‘plateau’ in parts of UK",
+            "description": "‘Life in 2022 will be almost back to before the pandemic,’ expert says",
+            "url": "https://www.independent.co.uk/news/health/uk-covid-cases-lowest-month-b1993934.html",
+            "urlToImage": "https://static.independent.co.uk/2022/01/10/15/newFile-7.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-15T20:27:39+00:00",
+            "content": "The UK has reported its lowest daily number of new coronavirus cases in the past month.\r\nA total of 81,713 Covid cases were recorded within a 24-hour period up to 9am on Saturday the lowest daily lev… [+3330 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Lamiat Sabin",
+            "title": "Daily Covid cases at lowest level for a month as Omicron infections ‘plateau’ in parts of UK",
+            "description": "‘Life in 2022 will be almost back to before the pandemic,’ expert says",
+            "url": "http://www.independent.co.uk/news/health/uk-covid-cases-lowest-month-b1993934.html",
+            "urlToImage": "https://static.independent.co.uk/2022/01/10/15/newFile-7.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-15T20:27:39Z",
+            "content": "The UK has reported its lowest daily number of new coronavirus cases in the past month.\r\nA total of 81,713 Covid cases were recorded within a 24-hour period up to 9am on Saturday the lowest daily lev… [+3330 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "KT McFarland: Putin's been trying to make Russia great again for 30 years",
+            "description": "Former Trump Deputy National Security Adviser KT McFarland argues Russia needs Ukraine to build its 'empire'",
+            "url": "https://video.foxnews.com/v/6291983886001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72d7c4ab-5d50-451a-9da2-a9c0093302b9/579a96a9-a2b3-4795-917f-523717788262/1280x720/match/image.jpg",
+            "publishedAt": "2022-01-15T20:22:24.0672005Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Roya Nikkhah",
+            "title": "It wasn’t just the Queen: the whole royal family knifed Prince Andrew",
+            "description": "After years of indecision, the Firm finally acted against the duke — and all his siblings were involved",
+            "url": "https://www.thetimes.co.uk/article/it-wasnt-just-the-queen-the-whole-royal-family-knifed-prince-andrew-d0glb2f9k",
+            "urlToImage": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F197d7df4-7615-11ec-b318-3e3a5d689572.jpg?crop=3000%2C1687%2C0%2C156&resize=1200",
+            "publishedAt": "2022-01-15T18:00:00+00:00",
+            "content": "Christmas was meant to be very different for the royal family.\r\nBefore Omicron, the Queen had hopes of her first family gathering since the pandemic at Sandringham, her Norfolk home; a celebration to… [+521 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Connor Andrews",
+            "title": "Thomas Tuchel disappointed with Romelu Lukaku and admits Chelsea ‘killed their chances’ in potentially tit...",
+            "description": "",
+            "url": "https://talksport.com/football/1021493/thomas-tuchel-chelsea-romelu-lukaku-man-city/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/01/TALKSPORT-TUCHEL-LUKAKU.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2022-01-15T17:59:26Z",
+            "content": "Chelsea manager Thomas Tuchel has criticised the performance of record signing Romelu Lukaku during his sides potentially decisive 1-0 loss to Manchester City.\r\nTuchel saw his teams title chances vir… [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": "goteborgs-posten",
+                "name": "Göteborgs-Posten"
+            },
+            "author": "Annelie Moran,Olof Ohlsson",
+            "title": "Militär från hela Sverige anländer till Gotland",
+            "description": "Ryska landstigningsfartyg i Östersjön och en upptrappad situation vid den ukrainska gränsen. Det är anledningen till att ett vanligtvis vinterslumrande Gotland nu har beväpnad militär patrullerande på gatorna, pansarfordon som rullar av färjorna och stora mil…",
+            "url": "http://www.gp.se/nyheter/sverige/milit%C3%A4r-fr%C3%A5n-hela-sverige-anl%C3%A4nder-till-gotland-1.63836947",
+            "urlToImage": "https://www.gp.se/image/policy:1.63836854:1642265599/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a",
+            "publishedAt": "2022-01-15T17:54:11Z",
+            "content": "Strax före midnatt på fredagen öppnade Gotlandsfärjan från Nynäshamn portarna till bildäcket i Visby hamn. Förutom privatbilister rullade också ett antal stora lastbilar med fordon på släpet samt fle… [+5116 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Sean O'Brien",
+            "title": "‘Exquisite’ Kevin De Bruyne haunts Chelsea again with wonder goal and Romelu Lukaku questioned as Man City...",
+            "description": "",
+            "url": "https://talksport.com/football/1021413/kevin-de-bruyne-chelsea-goal-romelu-lukaku-man-city-premier-league-title/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/01/TALKSPORT-DE-BRUYNE-LUKAKU.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2022-01-15T14:24:45Z",
+            "content": "An exquisite goal from Kevin De Bruyne saw Manchester City take a giant stride towards the Premier League title with a 1-0 win over Chelsea. \r\nThe ex-Blues midfielder haunted his former side yet agai… [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Aurélie Collas",
+            "title": "Dans le souk de Marrakech, « depuis la fermeture des frontières, il n’y a personne »",
+            "description": "Les commerçants du village artisanal jouxtant la place Djemaa El-Fna se demandent s’ils doivent rester ouverts, certains ayant perdu 90 % de leurs revenus. Pour eux, la solution est d’écouler leurs produits sur les plates-formes de vente en ligne. Un défi pou…",
+            "url": "https://www.lemonde.fr/economie/article/2022/01/15/dans-le-souk-de-marrakech-depuis-la-fermeture-des-frontieres-il-n-y-a-personne_6109626_3234.html",
+            "urlToImage": "https://img.lemde.fr/2022/01/14/695/0/8333/4166/1440/720/60/0/58ee43e_481207788-img8.jpg",
+            "publishedAt": "2022-01-15T13:00:22Z",
+            "content": "Mohammed Essaouissi, un graveur-ciseleur, qui expose dans sa boutique du souk de Marrakech toutes sortes dobjets en cuivre, le 13 janvier 2022. IMANE DJAMIL / KOZ COLLECTIVE POUR « LE MONDE »\r\nLes éc… [+2721 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "William Mauldin, Vivian Salama, Ann M. Simmons",
+            "title": "Russia-U.S. Talks Concluded With Posturing and Threats, but No Movement on Either Side",
+            "description": "Week of diplomacy leaves U.S. officials pessimistic, uncertain about Vladimir Putin’s intent in Ukraine crisis",
+            "url": "https://www.wsj.com/articles/russia-u-s-talks-concluded-with-posturing-and-threats-but-no-movement-on-either-side-11642251604?mod=hp_lead_pos6",
+            "urlToImage": "https://images.wsj.net/im-468314/social",
+            "publishedAt": "2022-01-15T13:00:00Z",
+            "content": "Last weekend, a senior Biden administration official looked at Russias military pressure on Ukraine and said the coming week of talks would offer President\r\nVladimir Putin\r\na choice between diplomacy… [+7150 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Editorial Board",
+            "title": "Time is running out to stop Russian aggression in Ukraine",
+            "description": "Raising the potential costs of an invasion to Russia by beefing up Ukraine’s capacity to resist it is, at this late date, the best hope to deter Putin.",
+            "url": "https://www.washingtonpost.com/opinions/2022/01/15/time-is-running-out-stop-russian-aggression-ukraine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACUSR2TVJYI6ZITNDQQ4C2Y4SM.jpg&w=1440",
+            "publishedAt": "2022-01-15T12:00:30Z",
+            "content": "The Biden administration was wise to try dialogue, if only to make it clear to the whole world how unappeasable Mr. Putin really is. On the whole, the Biden team has handled the atmospherics skillful… [+2459 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US man who faked death to evade rape charges found alive in UK",
+            "description": "Nicholas Alahverdian, who fled the US to evade prosecution, is arrested in Glasgow after being hospitalised with COVID.",
+            "url": "http://www.aljazeera.com/news/2022/1/15/us-man-who-faked-death-to-evade-rape-charges-found-alive-in-uk",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/01/2020-06-26T000000Z_974258836_RC23HH91TH3C_RTRMADP_3_BRITAIN-SECURITY-GLASGOW-1.jpg?resize=1200%2C630",
+            "publishedAt": "2022-01-15T07:33:06Z",
+            "content": "A Rhode Island man who is believed to have faked his death and fled the US to evade prosecution in Utah and other states has been apprehended in Scotland after being hospitalised with COVID-19, autho… [+2381 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince Andrew: Civil case accuser seeks UK witness testimony",
+            "description": "Lawyers for Virginia Giuffre seek evidence from two people in the UK in the civil sex assault case.",
+            "url": "http://www.bbc.co.uk/news/uk-60005128",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8066/production/_122707823_hi073075378.jpg",
+            "publishedAt": "2022-01-15T03:07:22.9680613Z",
+            "content": "Lawyers for the woman accusing Prince Andrew of sexual assault are seeking testimony from two people in the UK, according to court documents\r\nVirginia Giuffre's legal team want Robert Olney, the prin… [+1890 chars]"
+        }
+    ]
+}
